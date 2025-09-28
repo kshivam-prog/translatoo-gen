@@ -1,0 +1,1 @@
+# translatoo-gen
